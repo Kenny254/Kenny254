@@ -1,3 +1,5 @@
 Ken Ronoh (Cody) is a world-class innovator and tech educator with a background in Electrical and Electronics Engineering – Telecommunications. As a passionate tech enthusiast, he fuses deep technical knowledge with a love for software and hardware integration — spanning embedded systems, automation, and cross-platform development.
 
-Ken is proficient in a wide range of programming languages, including C++, Python, Java, PHP, and Swift, and works fluently with frameworks like Laravel, Ionic, and Flutter. His creative reach extends to robotics, CAD, CNC machining, and 3D printing. Beyond development, Ken is a dedicated mentor in STEAM and IB education, continually sharing his expertise and collaborating with the global tech community.
+Ken is proficient in a wide range of programming languages, including C++, Python, Java, PHP, and Swift, and works fluently with frameworks like Laravel, Ionic, and Flutter. His creative reach extends to robotics, CAD, CNC machining, and 3D printing. 
+
+Beyond development, Ken is a dedicated mentor in STEAM and IB education, continually sharing his expertise and collaborating with the global tech community.
